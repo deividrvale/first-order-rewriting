@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/terms/META" {"META"}
+  "_build/install/default/lib/terms/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/main" {"main"}
+]
+doc: [
+  "_build/install/default/doc/terms/LICENSE"
+  "_build/install/default/doc/terms/README.md"
+]

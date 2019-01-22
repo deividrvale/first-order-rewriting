@@ -1,0 +1,7 @@
+(executables
+ (names main)
+ (libraries terms unif cmd))
+
+(install
+ (section bin)
+ (files (main.exe as main)))
